@@ -1,5 +1,4 @@
-## Hi there 👋  
-![](https://images.app.goo.gl/AiFa3KaoeLM1adBU6)
+## Hi! 
 
 
 <!--
